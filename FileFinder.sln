@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FileFinder", "FileFinder\FileFinder.csproj", "{97C86DF5-CE8E-4E82-B03F-2C625C1300A3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FileFinder.Tests", "FileFinder.Tests\FileFinder.Tests.csproj", "{1444543E-C028-4A7B-9A33-DC30D94BDBBE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{97C86DF5-CE8E-4E82-B03F-2C625C1300A3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{97C86DF5-CE8E-4E82-B03F-2C625C1300A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{97C86DF5-CE8E-4E82-B03F-2C625C1300A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{97C86DF5-CE8E-4E82-B03F-2C625C1300A3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1444543E-C028-4A7B-9A33-DC30D94BDBBE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1444543E-C028-4A7B-9A33-DC30D94BDBBE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1444543E-C028-4A7B-9A33-DC30D94BDBBE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1444543E-C028-4A7B-9A33-DC30D94BDBBE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2F5F626B-AD65-4138-9DC1-9858C511AFF1}
+	EndGlobalSection
+EndGlobal

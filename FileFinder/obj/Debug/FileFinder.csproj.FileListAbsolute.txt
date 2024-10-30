@@ -1,0 +1,7 @@
+C:\Users\My\OneDrive\Документы\конспекты\МДК 01\Поддержка и тестирование программных модулей\FileFinder\FileFinder\bin\Debug\FileFinder.exe.config
+C:\Users\My\OneDrive\Документы\конспекты\МДК 01\Поддержка и тестирование программных модулей\FileFinder\FileFinder\bin\Debug\FileFinder.exe
+C:\Users\My\OneDrive\Документы\конспекты\МДК 01\Поддержка и тестирование программных модулей\FileFinder\FileFinder\bin\Debug\FileFinder.pdb
+C:\Users\My\OneDrive\Документы\конспекты\МДК 01\Поддержка и тестирование программных модулей\FileFinder\FileFinder\obj\Debug\FileFinder.csproj.AssemblyReference.cache
+C:\Users\My\OneDrive\Документы\конспекты\МДК 01\Поддержка и тестирование программных модулей\FileFinder\FileFinder\obj\Debug\FileFinder.csproj.CoreCompileInputs.cache
+C:\Users\My\OneDrive\Документы\конспекты\МДК 01\Поддержка и тестирование программных модулей\FileFinder\FileFinder\obj\Debug\FileFinder.exe
+C:\Users\My\OneDrive\Документы\конспекты\МДК 01\Поддержка и тестирование программных модулей\FileFinder\FileFinder\obj\Debug\FileFinder.pdb
